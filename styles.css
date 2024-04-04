@@ -1,0 +1,25 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
